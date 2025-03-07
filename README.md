@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Gabriel Borges😎 
 Atualmente estudando para me tornar um dev Front-End.
 <br><br>
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielborges&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
